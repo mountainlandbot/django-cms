@@ -3,7 +3,7 @@ python-coveralls==2.4.0
 docopt==0.6.1
 unittest-xml-reporting==1.0.3
 sphinx
-Pillow==2.0
+Pillow==9.3.0
 django-classy-tags>=0.5
 South>=0.7.2
 html5lib>=0.90
