@@ -43,7 +43,7 @@ setup(
         'django-reversion==1.6.6',
         'Pillow==1.7.7',
         'Sphinx==1.1.3',
-        'Jinja2==2.6',
+        'Jinja2==2.11.3',
         'Pygments==1.5',
         'dj-database-url==0.2.1',
         'django-hvad',
